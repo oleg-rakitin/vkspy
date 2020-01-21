@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <a href="https://github.com/VKCOM">
     <img width="100" height="100" src="https://avatars3.githubusercontent.com/u/1478241?s=200&v=4">
@@ -42,3 +43,6 @@ Go to created folder and run:
 
 [deps]: https://img.shields.io/david/vkcom/create-vk-mini-app.svg
 [deps-url]: https://david-dm.org/vkcom/create-vk-mini-app
+=======
+# vkspy
+>>>>>>> 52de3af9ee270ea00122d25d189b99aaa3738a01
