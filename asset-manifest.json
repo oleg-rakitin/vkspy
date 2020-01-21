@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/vkspy/static/css/main.981f7211.chunk.css",
+    "main.js": "/vkspy/static/js/main.540cab3c.chunk.js",
+    "main.js.map": "/vkspy/static/js/main.540cab3c.chunk.js.map",
+    "runtime-main.js": "/vkspy/static/js/runtime-main.b0238352.js",
+    "runtime-main.js.map": "/vkspy/static/js/runtime-main.b0238352.js.map",
+    "static/css/2.4e89ce74.chunk.css": "/vkspy/static/css/2.4e89ce74.chunk.css",
+    "static/js/2.dc1b987c.chunk.js": "/vkspy/static/js/2.dc1b987c.chunk.js",
+    "static/js/2.dc1b987c.chunk.js.map": "/vkspy/static/js/2.dc1b987c.chunk.js.map",
+    "index.html": "/vkspy/index.html",
+    "precache-manifest.de19c5dd6103b0e931c0c37d357e37e3.js": "/vkspy/precache-manifest.de19c5dd6103b0e931c0c37d357e37e3.js",
+    "service-worker.js": "/vkspy/service-worker.js",
+    "static/css/2.4e89ce74.chunk.css.map": "/vkspy/static/css/2.4e89ce74.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/vkspy/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/vkspy/static/media/persik.4e1ec840.png"
+  }
+}
